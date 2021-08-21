@@ -3,7 +3,7 @@ Mini project of C adv
 
 Make a program to manage a computer dictionary:
 1. Add/Search/Delete a word (using B-Tree).
-2. Auto complete search. Ex. When we enter “comput” and <tab>, the word “computer” should be auto completed (like in Bash Shell).
+2. Auto complete search. Ex. When we enter “comput” and [tab], the word “computer” should be auto completed (like in Bash Shell).
 3. Suggestion search => Use soundex library.
   
 Software and documentation is accessed at: http://www.hydrus.org.uk/doc/bt/html/index.html
